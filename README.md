@@ -1,5 +1,4 @@
-# Proje Adı
-
+# Template
 Bu proje, Android tabanlı bir uygulamadır. Kotlin dilinde yazılmış ve modern yazılım geliştirme prensipleri olan MVVM, MVI ve Clean Architecture baz alınarak yapılandırılmıştır.
 
 ## Proje Yapısı
